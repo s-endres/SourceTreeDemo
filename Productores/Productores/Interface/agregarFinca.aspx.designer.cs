@@ -22,7 +22,11 @@ namespace Productores.Interface {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+<<<<<<< HEAD
         /// Control lblNombre.
+=======
+        /// lblNombre control.
+>>>>>>> origin
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
@@ -40,7 +44,11 @@ namespace Productores.Interface {
         protected global::System.Web.UI.WebControls.TextBox txtNombre;
         
         /// <summary>
+<<<<<<< HEAD
         /// Control lblArea.
+=======
+        /// lblArea control.
+>>>>>>> origin
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
@@ -58,7 +66,11 @@ namespace Productores.Interface {
         protected global::System.Web.UI.WebControls.TextBox txtArea;
         
         /// <summary>
+<<<<<<< HEAD
         /// Control lblIdProductor.
+=======
+        /// lblIdProductor control.
+>>>>>>> origin
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
