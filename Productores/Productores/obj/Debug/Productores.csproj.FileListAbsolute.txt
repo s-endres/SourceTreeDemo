@@ -4,3 +4,9 @@ c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\b
 c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.csprojResolveAssemblyReference.cache
 c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.dll
 c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.pdb
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\bin\Productores.dll.config
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\bin\Productores.dll
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\bin\Productores.pdb
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\obj\Debug\Productores.csprojResolveAssemblyReference.cache
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\obj\Debug\Productores.dll
+C:\Users\developer8\Desktop\Git\SourceTreeDemo\Productores\Productores\obj\Debug\Productores.pdb
