@@ -20,6 +20,7 @@ namespace Productores.Logic
         {
             this.id = pid;
             this.nombre = "Diego";
+            this.nombre = "Stephan Endres";
             this.area = parea;
             this.idProductor = pidProductor;
         }
