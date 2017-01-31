@@ -1,0 +1,6 @@
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\bin\Productores.dll.config
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\bin\Productores.dll
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\bin\Productores.pdb
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.csprojResolveAssemblyReference.cache
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.dll
+c:\users\stephan\documents\visual studio 2013\Projects\Productores\Productores\obj\Debug\Productores.pdb
