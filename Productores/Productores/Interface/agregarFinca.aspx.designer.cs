@@ -22,13 +22,13 @@ namespace Productores.Interface {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Label2 control.
+        ///  lblNombre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.Label  lblNombre;
         
         /// <summary>
         /// txtNombre control.
@@ -40,13 +40,13 @@ namespace Productores.Interface {
         protected global::System.Web.UI.WebControls.TextBox txtNombre;
         
         /// <summary>
-        /// Label3 control.
+        /// lblArea control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
+        protected global::System.Web.UI.WebControls.Label lblArea;
         
         /// <summary>
         /// txtArea control.
@@ -58,13 +58,13 @@ namespace Productores.Interface {
         protected global::System.Web.UI.WebControls.TextBox txtArea;
         
         /// <summary>
-        /// Label4 control.
+        /// lblIdProductor control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.Label lblIdProductor;
         
         /// <summary>
         /// txtIdProductor control.
