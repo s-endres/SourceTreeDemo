@@ -12,7 +12,9 @@
     <div>
     
 
+
         <asp:Label ID=" lblNombre" runat="server" Text="Nombre"></asp:Label>
+        <asp:Label ID="lblNombre" runat="server" Text="Nombre"></asp:Label>
         <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> <br />
 
         <asp:Label ID="lblArea" runat="server" Text="Area"></asp:Label>
